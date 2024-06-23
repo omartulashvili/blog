@@ -1,258 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='http://localhost:1313/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>About - Monochrome</title>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <title>
-  About · johndoe
-</title>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="color-scheme" content="light dark">
+    
+    <meta name="description" content="Hugo, the world&#39;s fastest framework for building websites" />
+    
 
+    
 
+    
+    <meta name="author" content="Hugo Authors" />
+    
 
-
-<meta name="author" content="John Doe">
-<meta name="description" content="Hugo, the world&#39;s fastest framework for building websites">
-<meta name="keywords" content="blog,developer,personal">
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="About">
-  <meta name="twitter:description" content="Hugo, the world&#39;s fastest framework for building websites">
-
-<meta property="og:url" content="http://localhost:1313/about/">
-  <meta property="og:site_name" content="johndoe">
+    
+        <meta property="og:url" content="http://localhost:1313/about/">
+  <meta property="og:site_name" content="Monochrome">
   <meta property="og:title" content="About">
   <meta property="og:description" content="Hugo, the world&#39;s fastest framework for building websites">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:published_time" content="2019-02-28T00:00:00+00:00">
-    <meta property="article:modified_time" content="2019-02-28T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-06-22T20:04:35+04:00">
 
-
-
-
-<link rel="canonical" href="http://localhost:1313/about/">
-
-
-<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
-
-
-  
-  
-  <link rel="stylesheet" href="/css/coder.css" media="screen">
-
-
-
-
-
-
-  
     
+
     
-    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
-  
+        
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="About">
+  <meta name="twitter:description" content="Hugo, the world&#39;s fastest framework for building websites">
 
-
-
- 
-
-
-
-
-<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
-<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
-
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="stylesheet" href="/style.css" integrity="">
 
 
 
 
 
+    
+    <script>
+        if (!('theme' in localStorage)) {
+            localStorage.theme = 'light';
+        }
+
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+<script defer src="/js/header.js" integrity=""></script>
+
+
+
+    <script defer src="/js/zooming.js" integrity=""></script>
 
 
 
 
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="http://localhost:1313/user.css">
+
+    
 </head>
+<body><header>
+    <div id="header_left">
+        <div id="sidebar_btn">
+            <input type="checkbox" id="sidebar_btn_input" class="hidden" />
+            <label id="sidebar_btn_label" for="sidebar_btn_input">
+                <svg id="menu_icon" width="26px" height="26px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+</svg>
 
-
-
-
-
-
-<body class="preload-transitions colorscheme-auto">
-  
-<div class="float-container">
-    <a id="dark-mode-toggle" class="colorscheme-toggle">
-        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
-    </a>
-</div>
-
-
-  <main class="wrapper">
-    <nav class="navigation">
-  <section class="container">
+</svg>
+            </label>
+            <label id="sidebar_canvas_overlay_wrapper" for="sidebar_btn_input">
+                <div id="sidebar_canvas_overlay"></div>
+            </label>
+            <div id="sidebar">
+                <ul></ul>
+            </div>
+        </div>
     
-    <a class="navigation-title" href="http://localhost:1313/">
-      johndoe
-    </a>
-    
-    
-      <input type="checkbox" id="menu-toggle" />
-      <label class="menu-button float-right" for="menu-toggle">
-        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
-      </label>
-      <ul class="navigation-list">
+        <div class="brand">
+            <div>
+                <a href="/">Monochrome</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="toolbox">
+        <div id="theme_tool">
+            <svg id="dark_mode_btn" class="toolbox-btn" width="18px" height="18px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+</svg>
+
+</svg>
+            <svg id="light_mode_btn" class="toolbox-btn" width="18px" height="18px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+</svg>
+
+</svg>
+        </div>
+
         
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/about/">About</a>
-            </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/posts/">Blog</a>
-            </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/projects/">Projects</a>
-            </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/tutorials/">Tutorials</a>
-            </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/contact/">Contact me</a>
-            </li>
-          
+
         
-        
-          
-          
-          
-            
-              
-                <li class="navigation-item menu-separator">
-                  <span>|</span>
-                </li>
-                
-              
-              <li class="navigation-item">
-                <a href="/pt-br/about/">🇧🇷</a>
-              </li>
-            
-          
-        
-      </ul>
-    
-  </section>
+    </div>
+</header>
+<nav id="navbar" class="pure-menu">
+    <ul class="pure-menu-list"></ul>
 </nav>
+<main>
+            <div id="content" class="content-margin">
+                
 
 
-    <div class="content">
-      
-  <section class="container page">
-  <article>
-    <header>
-      <h1 class="title">
-        <a class="title-link" href="http://localhost:1313/about/">
-          About
-        </a>
-      </h1>
-    </header>
+    <div class="content-margin">
 
-    <p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE"  class="external-link" target="_blank" rel="noopener">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
+
+
+<article class="line-numbers">
+    
+    
+    <p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
 <p>Hugo makes use of a variety of open source projects including:</p>
 <ul>
-<li><a href="https://github.com/yuin/goldmark"  class="external-link" target="_blank" rel="noopener">https://github.com/yuin/goldmark</a></li>
-<li><a href="https://github.com/alecthomas/chroma"  class="external-link" target="_blank" rel="noopener">https://github.com/alecthomas/chroma</a></li>
-<li><a href="https://github.com/muesli/smartcrop"  class="external-link" target="_blank" rel="noopener">https://github.com/muesli/smartcrop</a></li>
-<li><a href="https://github.com/spf13/cobra"  class="external-link" target="_blank" rel="noopener">https://github.com/spf13/cobra</a></li>
-<li><a href="https://github.com/spf13/viper"  class="external-link" target="_blank" rel="noopener">https://github.com/spf13/viper</a></li>
+<li><a href="https://github.com/yuin/goldmark">https://github.com/yuin/goldmark</a></li>
+<li><a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma</a></li>
+<li><a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop</a></li>
+<li><a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra</a></li>
+<li><a href="https://github.com/spf13/viper">https://github.com/spf13/viper</a></li>
 </ul>
 <p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</p>
 <p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</p>
 <p>Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</p>
-<p>Learn more and contribute on <a href="https://github.com/gohugoio"  class="external-link" target="_blank" rel="noopener">GitHub</a>.</p>
+<p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
 
-  </article>
-</section>
-
-  
-
-    </div>
-
-    <footer class="footer">
-  <section class="container">
-    ©
-    
-      2019 -
-    
-    2024
-     John Doe 
-    ·
-    
-    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
-    
-  </section>
-</footer>
-
-  </main>
-
-  
-
-  
-  
-  <script src="/js/coder.js"></script>
-  
-
-  
-
-  
+</article>
+</div>
 
 
-  
-  
-
-
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+                
+                    
+                
+            </div>
+        </main>
 </body>
-
 </html>

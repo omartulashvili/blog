@@ -148,3 +148,8 @@
   name = "Posts"
   url = "/posts/"
   weight = 6
+[[navbar]]
+  identifier = "tutorials"
+  name = "Tutorials"
+  url = "/tutorials/"
+  weight = 7

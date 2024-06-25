@@ -2,1356 +2,1393 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:53532/en/layouts/bookcase/demo/balloon/</loc>
+    <loc>http://localhost:1313/en/layouts/bookcase/demo/balloon/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/demo/balloon/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/demo/balloon/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/demo/balloon/"
+                href="http://localhost:1313/ru/layouts/bookcase/demo/balloon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/demo/balloon/"
+                href="http://localhost:1313/layouts/bookcase/demo/balloon/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/demo/balloon/</loc>
+    <loc>http://localhost:1313/ru/layouts/bookcase/demo/balloon/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/configuration/site/</loc>
+    <loc>http://localhost:1313/configuration/site/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/configuration/site/"
+                href="http://localhost:1313/ru/configuration/site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/configuration/site/"
+                href="http://localhost:1313/configuration/site/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/configuration/site/</loc>
+    <loc>http://localhost:1313/en/configuration/site/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/configuration/site/</loc>
+    <loc>http://localhost:1313/ru/configuration/site/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/configuration/theme/</loc>
+    <loc>http://localhost:1313/configuration/theme/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/configuration/theme/"
+                href="http://localhost:1313/ru/configuration/theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/configuration/theme/"
+                href="http://localhost:1313/configuration/theme/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/configuration/theme/</loc>
+    <loc>http://localhost:1313/en/configuration/theme/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/configuration/theme/</loc>
+    <loc>http://localhost:1313/ru/configuration/theme/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/configuration/page/</loc>
+    <loc>http://localhost:1313/configuration/page/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/configuration/page/"
+                href="http://localhost:1313/ru/configuration/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/configuration/page/"
+                href="http://localhost:1313/configuration/page/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/configuration/page/</loc>
+    <loc>http://localhost:1313/en/configuration/page/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/configuration/page/</loc>
+    <loc>http://localhost:1313/ru/configuration/page/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/balloon/demo/</loc>
+    <loc>http://localhost:1313/ru/tutorials/nginx/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/balloon/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/balloon/demo/</loc>
+    <loc>http://localhost:1313/layouts/balloon/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/balloon/demo/"
+                href="http://localhost:1313/ru/layouts/balloon/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/balloon/demo/"
+                href="http://localhost:1313/layouts/balloon/demo/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/balloon/demo/</loc>
+    <loc>http://localhost:1313/ru/layouts/balloon/demo/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/demo/</loc>
+    <loc>http://localhost:1313/en/layouts/bookcase/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/demo/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/demo/"
+                href="http://localhost:1313/ru/layouts/bookcase/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/demo/"
+                href="http://localhost:1313/layouts/bookcase/demo/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/bookcase/demo/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/bookcase/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/docs/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/docs/"
+                href="http://localhost:1313/ru/layouts/bookcase/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/docs/"
+                href="http://localhost:1313/layouts/bookcase/docs/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/bookcase/docs/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/gallery/demo/</loc>
+    <loc>http://localhost:1313/en/layouts/gallery/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/gallery/demo/</loc>
+    <loc>http://localhost:1313/layouts/gallery/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/gallery/demo/"
+                href="http://localhost:1313/ru/layouts/gallery/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/gallery/demo/"
+                href="http://localhost:1313/layouts/gallery/demo/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/gallery/demo/</loc>
+    <loc>http://localhost:1313/ru/layouts/gallery/demo/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/gallery/docs/</loc>
+    <loc>http://localhost:1313/en/layouts/gallery/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/gallery/docs/</loc>
+    <loc>http://localhost:1313/layouts/gallery/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/gallery/docs/"
+                href="http://localhost:1313/ru/layouts/gallery/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/gallery/docs/"
+                href="http://localhost:1313/layouts/gallery/docs/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/gallery/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/gallery/docs/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/blank/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/ru/layouts/list/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/en/layouts/blank/demo/</loc>
+    <loc>http://localhost:1313/en/layouts/blank/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/blank/demo/</loc>
+    <loc>http://localhost:1313/layouts/blank/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/blank/demo/"
+                href="http://localhost:1313/ru/layouts/blank/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/blank/demo/"
+                href="http://localhost:1313/layouts/blank/demo/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/blank/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/blank/demo/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/blank/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/blank/docs/</loc>
+    <loc>http://localhost:1313/layouts/blank/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/blank/docs/"
+                href="http://localhost:1313/ru/layouts/blank/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/blank/docs/"
+                href="http://localhost:1313/layouts/blank/docs/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/blank/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/blank/docs/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/list/demo/</loc>
+    <loc>http://localhost:1313/en/layouts/list/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/list/demo/</loc>
+    <loc>http://localhost:1313/layouts/list/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/list/demo/"
+                href="http://localhost:1313/ru/layouts/list/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/list/demo/"
+                href="http://localhost:1313/layouts/list/demo/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/list/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/list/demo/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/list/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/list/docs/</loc>
+    <loc>http://localhost:1313/layouts/list/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/list/docs/"
+                href="http://localhost:1313/ru/layouts/list/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/list/docs/"
+                href="http://localhost:1313/layouts/list/docs/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/list/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/list/docs/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/demo/</loc>
+    <loc>http://localhost:1313/en/layouts/postcard/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/demo/</loc>
+    <loc>http://localhost:1313/layouts/postcard/demo/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/demo/"
+                href="http://localhost:1313/ru/layouts/postcard/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/demo/"
+                href="http://localhost:1313/layouts/postcard/demo/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/postcard/demo/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/postcard/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/docs/</loc>
+    <loc>http://localhost:1313/layouts/postcard/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/docs/"
+                href="http://localhost:1313/ru/layouts/postcard/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/docs/"
+                href="http://localhost:1313/layouts/postcard/docs/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/docs/</loc>
+    <loc>http://localhost:1313/ru/layouts/postcard/docs/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/tutorials/nginx/err_too_many_redirects/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/balloon/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/tutorials/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/balloon/docs/</loc>
+    <loc>http://localhost:1313/en/layouts/balloon/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/balloon/docs/</loc>
+    <loc>http://localhost:1313/layouts/balloon/docs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/balloon/docs/"
+                href="http://localhost:1313/ru/layouts/balloon/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/balloon/docs/"
+                href="http://localhost:1313/layouts/balloon/docs/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/balloon/docs/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/balloon/docs/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/ru/layouts/blank/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/demo/list/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/ru/layouts/list/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/en/layouts/blank/demo/post1/</loc>
+    <loc>http://localhost:1313/en/layouts/blank/demo/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/blank/demo/post1/</loc>
+    <loc>http://localhost:1313/layouts/blank/demo/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/blank/demo/post1/"
+                href="http://localhost:1313/ru/layouts/blank/demo/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/blank/demo/post1/"
+                href="http://localhost:1313/layouts/blank/demo/post1/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/demo/list/post1/</loc>
+    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/demo/list/post1/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/demo/list/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/demo/list/post1/"
+                href="http://localhost:1313/ru/layouts/bookcase/demo/list/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/demo/list/post1/"
+                href="http://localhost:1313/layouts/bookcase/demo/list/post1/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/list/demo/post1/</loc>
+    <loc>http://localhost:1313/en/layouts/list/demo/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/list/demo/post1/</loc>
+    <loc>http://localhost:1313/layouts/list/demo/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/list/demo/post1/"
+                href="http://localhost:1313/ru/layouts/list/demo/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/list/demo/post1/"
+                href="http://localhost:1313/layouts/list/demo/post1/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/demo/post1/</loc>
+    <loc>http://localhost:1313/en/layouts/postcard/demo/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/demo/post1/</loc>
+    <loc>http://localhost:1313/layouts/postcard/demo/post1/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/demo/post1/"
+                href="http://localhost:1313/ru/layouts/postcard/demo/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/demo/post1/"
+                href="http://localhost:1313/layouts/postcard/demo/post1/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/blank/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/blank/demo/post1/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/demo/list/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/bookcase/demo/list/post1/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/list/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/list/demo/post1/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/postcard/demo/post1/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/blank/demo/post2/</loc>
+    <loc>http://localhost:1313/en/layouts/blank/demo/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/blank/demo/post2/</loc>
+    <loc>http://localhost:1313/layouts/blank/demo/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/blank/demo/post2/"
+                href="http://localhost:1313/ru/layouts/blank/demo/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/blank/demo/post2/"
+                href="http://localhost:1313/layouts/blank/demo/post2/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/demo/list/post2/</loc>
+    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/demo/list/post2/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/demo/list/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/demo/list/post2/"
+                href="http://localhost:1313/ru/layouts/bookcase/demo/list/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/demo/list/post2/"
+                href="http://localhost:1313/layouts/bookcase/demo/list/post2/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/list/demo/post2/</loc>
+    <loc>http://localhost:1313/en/layouts/list/demo/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/list/demo/post2/</loc>
+    <loc>http://localhost:1313/layouts/list/demo/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/list/demo/post2/"
+                href="http://localhost:1313/ru/layouts/list/demo/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/list/demo/post2/"
+                href="http://localhost:1313/layouts/list/demo/post2/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/demo/post2/</loc>
+    <loc>http://localhost:1313/en/layouts/postcard/demo/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/demo/post2/</loc>
+    <loc>http://localhost:1313/layouts/postcard/demo/post2/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/demo/post2/"
+                href="http://localhost:1313/ru/layouts/postcard/demo/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/demo/post2/"
+                href="http://localhost:1313/layouts/postcard/demo/post2/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/blank/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/blank/demo/post2/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/demo/list/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/bookcase/demo/list/post2/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/list/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/list/demo/post2/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/postcard/demo/post2/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/blank/demo/post3/</loc>
+    <loc>http://localhost:1313/en/layouts/blank/demo/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/blank/demo/post3/</loc>
+    <loc>http://localhost:1313/layouts/blank/demo/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/blank/demo/post3/"
+                href="http://localhost:1313/ru/layouts/blank/demo/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/blank/demo/post3/"
+                href="http://localhost:1313/layouts/blank/demo/post3/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/demo/list/post3/</loc>
+    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/demo/list/post3/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/demo/list/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/demo/list/post3/"
+                href="http://localhost:1313/ru/layouts/bookcase/demo/list/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/demo/list/post3/"
+                href="http://localhost:1313/layouts/bookcase/demo/list/post3/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/list/demo/post3/</loc>
+    <loc>http://localhost:1313/en/layouts/list/demo/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/list/demo/post3/</loc>
+    <loc>http://localhost:1313/layouts/list/demo/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/list/demo/post3/"
+                href="http://localhost:1313/ru/layouts/list/demo/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/list/demo/post3/"
+                href="http://localhost:1313/layouts/list/demo/post3/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/demo/post3/</loc>
+    <loc>http://localhost:1313/en/layouts/postcard/demo/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/demo/post3/</loc>
+    <loc>http://localhost:1313/layouts/postcard/demo/post3/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/demo/post3/"
+                href="http://localhost:1313/ru/layouts/postcard/demo/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/demo/post3/"
+                href="http://localhost:1313/layouts/postcard/demo/post3/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/blank/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/blank/demo/post3/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/demo/list/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/bookcase/demo/list/post3/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/list/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/list/demo/post3/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/postcard/demo/post3/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/demo/post4/</loc>
+    <loc>http://localhost:1313/en/layouts/postcard/demo/post4/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/demo/post4/</loc>
+    <loc>http://localhost:1313/layouts/postcard/demo/post4/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/demo/post4/"
+                href="http://localhost:1313/ru/layouts/postcard/demo/post4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/demo/post4/"
+                href="http://localhost:1313/layouts/postcard/demo/post4/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/demo/post4/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/postcard/demo/post4/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/demo/post5/</loc>
+    <loc>http://localhost:1313/en/layouts/postcard/demo/post5/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/demo/post5/</loc>
+    <loc>http://localhost:1313/layouts/postcard/demo/post5/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/demo/post5/"
+                href="http://localhost:1313/ru/layouts/postcard/demo/post5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/demo/post5/"
+                href="http://localhost:1313/layouts/postcard/demo/post5/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/demo/post5/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/postcard/demo/post5/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/demo/post6/</loc>
+    <loc>http://localhost:1313/en/layouts/postcard/demo/post6/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/demo/post6/</loc>
+    <loc>http://localhost:1313/layouts/postcard/demo/post6/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/demo/post6/"
+                href="http://localhost:1313/ru/layouts/postcard/demo/post6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/demo/post6/"
+                href="http://localhost:1313/layouts/postcard/demo/post6/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/demo/post6/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/layouts/postcard/demo/post6/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/postcard/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/categories/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/categories/"
+                href="http://localhost:1313/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://localhost:53532/zh-tw/categories/"
+                href="http://localhost:1313/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:53532/tags/css/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/css/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/css/"
+                href="http://localhost:1313/ru/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/css/"
+                href="http://localhost:1313/tags/css/"
                 />
   </url><url>
-    <loc>http://localhost:53532/tags/html/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/html/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/html/"
+                href="http://localhost:1313/ru/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/html/"
+                href="http://localhost:1313/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:53532/tags/index/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/index/"
+                href="http://localhost:1313/ru/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/index/"
+                href="http://localhost:1313/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:53532/tags/markdown/</loc>
+    <loc>http://localhost:1313/en/posts/markdown-syntax/</loc>
+    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/markdown-syntax/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/markdown/"
+                href="http://localhost:1313/ru/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/markdown/"
+                href="http://localhost:1313/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/posts/markdown-syntax/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/ru/posts/markdown-syntax/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/posts/markdown-syntax/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:53532/posts/markdown-syntax/"
-                />
-  </url><url>
-    <loc>http://localhost:53532/ru/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/ru/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53532/series/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:53532/ru/series/"
+                href="http://localhost:1313/ru/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://localhost:53532/zh-tw/series/"
+                href="http://localhost:1313/zh-tw/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>http://localhost:53532/categories/syntax/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/categories/syntax/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/categories/syntax/"
+                href="http://localhost:1313/ru/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/categories/syntax/"
+                href="http://localhost:1313/categories/syntax/"
                 />
   </url><url>
-    <loc>http://localhost:53532/tags/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/"
+                href="http://localhost:1313/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://localhost:53532/zh-tw/tags/"
+                href="http://localhost:1313/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:53532/categories/themes/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/categories/themes/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/categories/themes/"
+                href="http://localhost:1313/ru/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/categories/themes/"
+                href="http://localhost:1313/categories/themes/"
                 />
   </url><url>
-    <loc>http://localhost:53532/series/themes-guide/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/series/themes-guide/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/series/themes-guide/"
+                href="http://localhost:1313/ru/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/series/themes-guide/"
+                href="http://localhost:1313/series/themes-guide/"
                 />
   </url><url>
-    <loc>http://localhost:53532/tags/privacy/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/privacy/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/privacy/"
+                href="http://localhost:1313/ru/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/privacy/"
+                href="http://localhost:1313/tags/privacy/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/posts/rich-content/</loc>
+    <loc>http://localhost:1313/en/posts/rich-content/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/posts/rich-content/</loc>
+    <loc>http://localhost:1313/posts/rich-content/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/posts/rich-content/"
+                href="http://localhost:1313/ru/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/posts/rich-content/"
+                href="http://localhost:1313/posts/rich-content/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/posts/rich-content/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/tags/shortcodes/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/shortcodes/"
+                href="http://localhost:1313/ru/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/shortcodes/"
+                href="http://localhost:1313/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/posts/placeholder-text/</loc>
+    <loc>http://localhost:1313/en/posts/placeholder-text/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/posts/placeholder-text/</loc>
+    <loc>http://localhost:1313/posts/placeholder-text/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/posts/placeholder-text/"
+                href="http://localhost:1313/ru/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/posts/placeholder-text/"
+                href="http://localhost:1313/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/posts/placeholder-text/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/tags/text/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/text/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/text/"
+                href="http://localhost:1313/ru/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/text/"
+                href="http://localhost:1313/tags/text/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/posts/math-typesetting/</loc>
+    <loc>http://localhost:1313/en/posts/math-typesetting/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/posts/math-typesetting/</loc>
+    <loc>http://localhost:1313/posts/math-typesetting/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/posts/math-typesetting/"
+                href="http://localhost:1313/ru/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/posts/math-typesetting/"
+                href="http://localhost:1313/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/posts/math-typesetting/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/tags/emoji/</loc>
-    <lastmod>2024-06-23T06:54:21+04:00</lastmod>
+    <loc>http://localhost:1313/tags/emoji/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/tags/emoji/"
+                href="http://localhost:1313/ru/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/tags/emoji/"
+                href="http://localhost:1313/tags/emoji/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/posts/emoji-support/</loc>
+    <loc>http://localhost:1313/en/posts/emoji-support/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/posts/emoji-support/</loc>
+    <loc>http://localhost:1313/posts/emoji-support/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/posts/emoji-support/"
+                href="http://localhost:1313/ru/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/posts/emoji-support/"
+                href="http://localhost:1313/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/posts/emoji-support/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/"
+                href="http://localhost:1313/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="http://localhost:53532/zh-tw/"
+                href="http://localhost:1313/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/balloon/</loc>
+    <loc>http://localhost:1313/ru/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/balloon/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/balloon/</loc>
+    <loc>http://localhost:1313/layouts/balloon/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/balloon/"
+                href="http://localhost:1313/ru/layouts/balloon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/balloon/"
+                href="http://localhost:1313/layouts/balloon/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/balloon/demo/single/</loc>
+    <loc>http://localhost:1313/ru/layouts/balloon/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/balloon/demo/single/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/balloon/demo/single/</loc>
+    <loc>http://localhost:1313/layouts/balloon/demo/single/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/balloon/demo/single/"
+                href="http://localhost:1313/ru/layouts/balloon/demo/single/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/balloon/demo/single/"
+                href="http://localhost:1313/layouts/balloon/demo/single/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/balloon/demo/single/</loc>
+    <loc>http://localhost:1313/ru/layouts/balloon/demo/single/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/blank/</loc>
+    <loc>http://localhost:1313/en/layouts/blank/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/blank/</loc>
+    <loc>http://localhost:1313/layouts/blank/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/blank/"
+                href="http://localhost:1313/ru/layouts/blank/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/blank/"
+                href="http://localhost:1313/layouts/blank/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/bookcase/</loc>
+    <loc>http://localhost:1313/ru/layouts/blank/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/shortcodes/bookcase/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/bookcase/</loc>
+    <loc>http://localhost:1313/shortcodes/bookcase/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/bookcase/"
+                href="http://localhost:1313/ru/shortcodes/bookcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/bookcase/"
+                href="http://localhost:1313/shortcodes/bookcase/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/bookcase/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/bookcase/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/</loc>
+    <loc>http://localhost:1313/en/layouts/bookcase/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/"
+                href="http://localhost:1313/ru/layouts/bookcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/"
+                href="http://localhost:1313/layouts/bookcase/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/breadcrumbs/</loc>
+    <loc>http://localhost:1313/ru/layouts/bookcase/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/shortcodes/breadcrumbs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/breadcrumbs/</loc>
+    <loc>http://localhost:1313/shortcodes/breadcrumbs/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/breadcrumbs/"
+                href="http://localhost:1313/ru/shortcodes/breadcrumbs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/breadcrumbs/"
+                href="http://localhost:1313/shortcodes/breadcrumbs/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/breadcrumbs/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/breadcrumbs/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/changelog/</loc>
+    <loc>http://localhost:1313/changelog/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/changelog/"
+                href="http://localhost:1313/ru/changelog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/changelog/"
+                href="http://localhost:1313/changelog/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/changelog/</loc>
+    <loc>http://localhost:1313/en/changelog/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/codepen/</loc>
+    <loc>http://localhost:1313/en/shortcodes/codepen/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/codepen/</loc>
+    <loc>http://localhost:1313/shortcodes/codepen/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/codepen/"
+                href="http://localhost:1313/ru/shortcodes/codepen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/codepen/"
+                href="http://localhost:1313/shortcodes/codepen/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/codepen/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/codepen/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/color-block/</loc>
+    <loc>http://localhost:1313/en/shortcodes/color-block/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/color-block/</loc>
+    <loc>http://localhost:1313/shortcodes/color-block/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/color-block/"
+                href="http://localhost:1313/ru/shortcodes/color-block/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/color-block/"
+                href="http://localhost:1313/shortcodes/color-block/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/color-block/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/color-block/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/configuration/</loc>
+    <loc>http://localhost:1313/configuration/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/configuration/"
+                href="http://localhost:1313/ru/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/configuration/"
+                href="http://localhost:1313/configuration/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/configuration/</loc>
+    <loc>http://localhost:1313/en/configuration/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/configuration/</loc>
+    <loc>http://localhost:1313/ru/configuration/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/emgithub/</loc>
+    <loc>http://localhost:1313/en/shortcodes/emgithub/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/emgithub/</loc>
+    <loc>http://localhost:1313/shortcodes/emgithub/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/emgithub/"
+                href="http://localhost:1313/ru/shortcodes/emgithub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/emgithub/"
+                href="http://localhost:1313/shortcodes/emgithub/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/emgithub/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/emgithub/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/gallery/</loc>
+    <loc>http://localhost:1313/en/layouts/gallery/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/gallery/</loc>
+    <loc>http://localhost:1313/layouts/gallery/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/gallery/"
+                href="http://localhost:1313/ru/layouts/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/gallery/"
+                href="http://localhost:1313/layouts/gallery/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/gallery/</loc>
+    <loc>http://localhost:1313/ru/layouts/gallery/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/icon/</loc>
+    <loc>http://localhost:1313/en/shortcodes/icon/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/icon/</loc>
+    <loc>http://localhost:1313/shortcodes/icon/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/icon/"
+                href="http://localhost:1313/ru/shortcodes/icon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/icon/"
+                href="http://localhost:1313/shortcodes/icon/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/icon/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/icon/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/icon-group/</loc>
+    <loc>http://localhost:1313/en/shortcodes/icon-group/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/icon-group/</loc>
+    <loc>http://localhost:1313/shortcodes/icon-group/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/icon-group/"
+                href="http://localhost:1313/ru/shortcodes/icon-group/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/icon-group/"
+                href="http://localhost:1313/shortcodes/icon-group/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/icon-group/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/icon-group/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/jsfiddle/</loc>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/index/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/shortcodes/jsfiddle/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/jsfiddle/</loc>
+    <loc>http://localhost:1313/shortcodes/jsfiddle/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/jsfiddle/"
+                href="http://localhost:1313/ru/shortcodes/jsfiddle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/jsfiddle/"
+                href="http://localhost:1313/shortcodes/jsfiddle/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/jsfiddle/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/jsfiddle/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/</loc>
+    <loc>http://localhost:1313/en/layouts/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/</loc>
+    <loc>http://localhost:1313/layouts/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/"
+                href="http://localhost:1313/ru/layouts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/"
+                href="http://localhost:1313/layouts/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/demo/list/</loc>
+    <loc>http://localhost:1313/ru/layouts/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/demo/list/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/demo/list/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/demo/list/"
+                href="http://localhost:1313/ru/layouts/bookcase/demo/list/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/demo/list/"
+                href="http://localhost:1313/layouts/bookcase/demo/list/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/list/</loc>
+    <loc>http://localhost:1313/ru/layouts/bookcase/demo/list/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/list/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/list/</loc>
+    <loc>http://localhost:1313/layouts/list/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/list/"
+                href="http://localhost:1313/ru/layouts/list/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/list/"
+                href="http://localhost:1313/layouts/list/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/layouts/postcard/</loc>
+    <loc>http://localhost:1313/ru/layouts/list/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/layouts/postcard/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/postcard/</loc>
+    <loc>http://localhost:1313/layouts/postcard/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/postcard/"
+                href="http://localhost:1313/ru/layouts/postcard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/postcard/"
+                href="http://localhost:1313/layouts/postcard/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/posts/</loc>
+    <loc>http://localhost:1313/ru/layouts/postcard/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/posts/"
+                href="http://localhost:1313/ru/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/recent-posts/</loc>
+    <loc>http://localhost:1313/ru/posts/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/shortcodes/recent-posts/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/recent-posts/</loc>
+    <loc>http://localhost:1313/shortcodes/recent-posts/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/recent-posts/"
+                href="http://localhost:1313/ru/shortcodes/recent-posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/recent-posts/"
+                href="http://localhost:1313/shortcodes/recent-posts/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/recent-posts/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/recent-posts/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/layouts/bookcase/demo/regular-page/</loc>
+    <loc>http://localhost:1313/en/layouts/bookcase/demo/regular-page/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/layouts/bookcase/demo/regular-page/</loc>
+    <loc>http://localhost:1313/layouts/bookcase/demo/regular-page/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/layouts/bookcase/demo/regular-page/"
+                href="http://localhost:1313/ru/layouts/bookcase/demo/regular-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/layouts/bookcase/demo/regular-page/"
+                href="http://localhost:1313/layouts/bookcase/demo/regular-page/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/layouts/bookcase/demo/regular-page/</loc>
+    <loc>http://localhost:1313/ru/layouts/bookcase/demo/regular-page/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/setup/</loc>
+    <loc>http://localhost:1313/en/setup/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/setup/</loc>
+    <loc>http://localhost:1313/setup/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/setup/"
+                href="http://localhost:1313/ru/setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/setup/"
+                href="http://localhost:1313/setup/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/setup/</loc>
+    <loc>http://localhost:1313/ru/setup/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/</loc>
+    <loc>http://localhost:1313/en/shortcodes/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/</loc>
+    <loc>http://localhost:1313/shortcodes/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/"
+                href="http://localhost:1313/ru/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/"
+                href="http://localhost:1313/shortcodes/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/en/shortcodes/terms-cloud/</loc>
+    <loc>http://localhost:1313/en/shortcodes/terms-cloud/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/shortcodes/terms-cloud/</loc>
+    <loc>http://localhost:1313/shortcodes/terms-cloud/</loc>
     <lastmod>2024-06-23T06:54:21+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:53532/ru/shortcodes/terms-cloud/"
+                href="http://localhost:1313/ru/shortcodes/terms-cloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53532/shortcodes/terms-cloud/"
+                href="http://localhost:1313/shortcodes/terms-cloud/"
                 />
   </url><url>
-    <loc>http://localhost:53532/ru/shortcodes/terms-cloud/</loc>
+    <loc>http://localhost:1313/ru/shortcodes/terms-cloud/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53532/ru/changelog/</loc>
+    <loc>http://localhost:1313/ru/changelog/</loc>
+    <lastmod>2024-06-23T23:26:51+04:00</lastmod>
   </url>
 </urlset>

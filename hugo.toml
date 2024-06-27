@@ -9,7 +9,7 @@ enableGitInfo = true
 
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+# languageCode = "en"
 
 [outputs]
   home = ["HTML", "RSS","JSON"]

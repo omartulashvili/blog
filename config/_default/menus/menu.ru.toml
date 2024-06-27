@@ -1,0 +1,20 @@
+#  menu items
+[[main]]
+  name = "Блог"
+  weight = 5
+  url = "blog/"
+
+[[main]]
+  name = "Документация"
+  weight = 2
+  url = "docs/"
+
+[[main]]
+  name = "Туториалы"
+  weight = 1
+  url = "tutorials/"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"

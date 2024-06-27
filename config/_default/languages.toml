@@ -1,0 +1,6 @@
+[en]
+  LanguageName = "En"
+  weight = 2
+[ru]
+  LanguageName = "Ru"
+  weight = 1
